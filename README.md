@@ -1,6 +1,6 @@
-# Dazed Software Renderer
+#  PigyChan Renderer
 
-English|[中文](README-CN.md)
+English|[中文](READMEcn.md)
 
 ## Features
 
