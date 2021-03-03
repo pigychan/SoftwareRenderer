@@ -26,10 +26,15 @@
   在最开始，我在https://github.com/ssloy/tinyrenderer/wiki 这个开源项目中学习，完成了渲染器基本的渲染功能，以下是其渲染出来的图片展示：
 
 
-![image](/image/Africa1.jpg) ![image](/image/Africa2.png) ![image](/image/AfricaZ.png) ![image](/image/Diablo.png)
+![image](/image/Africa1.jpg) ![image](/image/Diablo.png)
+![image](/image/Africa2.png) ![image](/image/AfricaZ.png) 
 
   接下来，我在https://github.com/SunXLei/SRender 这个开源项目中学习，为渲染器逐步添加了可移动相机，win32交互接口等功能。另外，我也采用了该项目中的模型资源。
 
   这是最终实现的渲染器效果：
 
 ![image](/image/fuhua.PNG) ![image](/image/gun.PNG) ![image](/image/qiyana.PNG) ![image](/image/xier.PNG) ![image](/image/yayi.PNG)
+
+## 引用
+### 《games101》--闫令琪
+### https://github.com/SunXLei/SRender
