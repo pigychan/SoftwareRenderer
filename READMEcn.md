@@ -37,5 +37,5 @@
 ![image](/image/fuhua.PNG) ![image](/image/gun.PNG) ![image](/image/qiyana.PNG) ![image](/image/xier.PNG) ![image](/image/yayi.PNG)
 
 ## 引用
-### 《games101》--闫令琪
+### GAMES101
 ### https://github.com/SunXLei/SRender
