@@ -25,7 +25,7 @@
   在最开始，我在https://github.com/ssloy/tinyrenderer/wiki 这个开源项目中学习，完成了渲染器基本的渲染功能，以下是其渲染出来的图片展示：
 
 
-![image](/images/merge2.jpg)
+![image](/image/Africa1.jpg) ![image](/image/Africa2.jpg) ![image](/image/AfricaZ.jpg) ![image](/image/Diablo.jpg)
 
   接下来，我在https://github.com/SunXLei/SRender 这个开源项目中学习，为渲染器逐步添加了可移动相机，win32交互接口等功能。另外，我也采用了该项目中的模型资源。
 
