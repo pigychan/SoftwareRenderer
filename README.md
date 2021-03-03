@@ -36,12 +36,19 @@ This is the final render effect:
 ![image](/image/fuhua.PNG) ![image](/image/gun.PNG) ![image](/image/qiyana.PNG) ![image](/image/xier.PNG) ![image](/image/yayi.PNG)
 
 ## Control of Camera
+
 Left mouse button: rotation
+
 Right mouse button: move
+
 Mouse wheel: scale
+
 'w','s' Keyboard keys: move back and forth
+
 'a','d' Keyboard keys: move left and right
+
 'q','e' Keyboard keys: move up and down
+
 
 
 ## Reference
