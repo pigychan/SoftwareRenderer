@@ -1,4 +1,4 @@
-# Dazed 软件渲染器
+# PigyChan 软件渲染器
 
 [English](README.md)|中文
 
@@ -16,16 +16,18 @@
 
 - 可交互的渲染场景
 
+- 可移动相机
+
 ## 总结
 
-  Dazed软件渲染器是我入门计算机图形学初级阶段的学习成果，虽然很简陋，但是包含基本的光栅化流程，它加深了我对渲染管线的理解。
+  该渲染器是我在学习了闫令琪老师的《Games101》计算机图形学课程后，着手的第一个实践项目。
 
-我从https://github.com/ssloy/tinyrenderer/wiki 教程开始，做完之后得到渲染结果如下：
+  在最开始，我在https://github.com/ssloy/tinyrenderer/wiki 这个开源项目中学习，完成了渲染器基本的渲染功能，以下是其渲染出来的图片展示：
 
 
 ![image](/images/merge2.jpg)
 
-  然后使用win32编码一个可交互的实时界面，https://github.com/skywind3000/mini3d 主要学习这个开源仓库。
+  接下来，我在https://github.com/SunXLei/SRender 这个开源项目中学习，为渲染器逐步添加了可移动相机，win32交互接口等功能。另外，我也采用了该项目中的模型资源。
 
   将tinyrender移植到win32程序过程中，请小心左手右手坐标系对应的透视矩阵。
 
@@ -35,6 +37,6 @@
 
 ![image](/images/merge1.jpg)
 
-  最后，我在网站https://sketchfab.com/3d-models/hatsune-miku-chibi-w-stand-7310aaeb8370428e966bdcff414273e7 下载了免费的初音模型，在houdini中重新计算了法线信息后，得到渲染如下：
+  这是最终实现的渲染器效果：
 
 ![image](/images/miku.jpg)
